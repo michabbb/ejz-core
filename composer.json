@@ -1,0 +1,25 @@
+{
+    "name": "ejz/core",
+    "description": "Set of help functions. Added to global scope.",
+    "keywords": ["ejz", "core", "helpers", "utils"],
+    "license": "WTFPL",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/Ejz/Core"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Ejz",
+            "email": "ejz@ya.ru",
+            "homepage": "http://ejz.ru/"
+        }
+    ],
+    "require": {
+        "php": ">=5.5.0"
+    },
+    "autoload": {
+        "files": ["core.php"]
+    }
+}
