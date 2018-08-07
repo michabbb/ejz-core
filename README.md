@@ -1,4 +1,4 @@
-# Core [![Travis Status for Ejz/Core](https://travis-ci.org/Ejz/Core.svg?branch=master)](https://travis-ci.org/Ejz/Core)
+# Core 
 
 Core is a set of help functions. Added to global scope.
 
