@@ -7,7 +7,7 @@ Core is a set of help functions. Added to global scope.
 ```bash
 $ mkdir myproject && cd myproject
 $ curl -sS 'https://getcomposer.org/installer' | php
-$ php composer.phar require ejz/core:~1.0
+$ php composer.phar require michabbb/ejz-core:~1.0
 ```
 
 To use it, just include `vendor/autoload.php` in your script.
