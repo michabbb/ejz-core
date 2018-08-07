@@ -1,12 +1,12 @@
 {
-    "name": "ejz/core",
+    "name": "michabbb/ejz-core",
     "description": "Set of help functions. Added to global scope.",
     "keywords": ["ejz", "core", "helpers", "utils"],
     "license": "WTFPL",
     "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/Ejz/Core"
+            "url": "https://github.com/michabbb/ejz-core"
         }
     ],
     "authors": [
